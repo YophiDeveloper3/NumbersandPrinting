@@ -22,3 +22,13 @@ print(solve_math)
 
 # When I ran the code in line 20-21, I got 15, now I know that I must use (//) to get a interger. A interger is a whole number
 
+#Float Division 
+floatpoint_division = 15 / 5 
+print(floatingpoint_division)
+                             answer would be 5.0 
+                             
+                             
+intergerdivision = 15 // 5
+print(intergerdivision)
+                             answer would be 5
+
