@@ -1,0 +1,24 @@
+# you can name a variable anything you want. However, keywords are not allowed to be used as varibles such as True or False,
+# although a lowercase (t) for true or lowercase (f) for false can be used, it can still cause a mess in your coding environment.
+# also you cannot begin the name of a variable with the first character being a numeral character
+ 
+# 1_Yophi = "incorrect"
+# False = ['untrue', 'improper', 'mistaken']
+# true = ('confusing')
+
+# Take into account that if your varible is similar to a keyword, this would be a great idea to expand your vocabulary by going
+# to a thesaurus and getting the synnonym for the variable that is the same as the keyword, then you can use the new profound synonym
+# as a way of everyday speech or unique variable words lol
+
+solve_equation = 3 + 7 * 8 / 4 - 2
+print(solve_equation)
+
+# Line 13-14 == 15.0 now as I began to think, I ask myself "Why everytime I run a code that way, I come up with a floating number?" 
+# after researching the solution I learned that the reason I am getting a floating point number is because I am using division character (/)
+# In order to get a Interger I must use this method below :
+
+solve_math = 3 + 7 * 8 // 4 - 2
+print(solve_math)
+
+# When I ran the code in line 20-21, I got 15, now I know that I must use (//) to get a interger. A interger is a whole number
+
